@@ -157,9 +157,10 @@ header:hover .owl-next {
 }
 
 .sutras_credits {
-  color: #b8312f !important;
+  color: #ed706e !important;
   font-family: 'Times New Roman', Times, serif;
-  font-size: 20px;
+  font-size: 22px;
+  font-weight: bold;
   float: right;
 }
 

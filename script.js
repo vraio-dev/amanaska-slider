@@ -4,8 +4,8 @@ $('.owl-carousel').owlCarousel({
     dots:false,
     nav:true,
     mouseDrag:false,
-    autoplay:15000,
-    // autoplayTimeout:15000 ,
+    autoplay: true,
+    autoplayTimeout:30000 ,
     animateOut: 'slideOutUp',
     responsive:{
         0:{
